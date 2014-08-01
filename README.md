@@ -9,6 +9,6 @@ Direct questions and bug reports to:
 
 Current suite:
 
-ont2fq.py - Run summary statistics and Fast[q|a] conversion driven from python's hd5 library.
+ont2fq.py - Run summary statistics and Fast[q|a] conversion implemented in python.
 
 	Library Dependancies:  h5py, sys, os, glob, optparse, SeqIO (Bio)
